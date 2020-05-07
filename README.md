@@ -1,2 +1,2 @@
 # VSPP-Documentation
-Inclludes VSPP documentation 
+Includes VSPP documentation 
